@@ -133,6 +133,7 @@ In the Import Design window click the save option to save the Default.globals fi
 • Select Floorplan → Specify Floorplan to modify/add concerned values to the above Factors. On adding/modifying the concerned values, the core area is also modified.
 
 ### Fig.9 Specify Floorplan 
+
 <img width="1596" height="899" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/b80fae3a-5956-409f-aade-f81f21a70042" />
 
 • The Yellow patch on the Left Bottom are the group of “Unassigned pins” which are to be  placed along the IO Boundary along with the Standard Cells [Gates].
@@ -198,3 +199,4 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 ## Result
 
 Thus, the physical design stages up to placement for the 4-bit up-down counter were completed and verified.
+
